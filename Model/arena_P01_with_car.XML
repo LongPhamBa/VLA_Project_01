@@ -1,0 +1,101 @@
+<mujoco>
+  <option timestep="0.001"/>
+
+  <!-- Tài nguyên từ model xe -->
+  <asset>
+    <texture name="grid" type="2d" builtin="checker" width="512" height="512" rgb1=".1 .2 .3" rgb2=".2 .3 .4"/>
+    <material name="grid" texture="grid" texrepeat="1 1" texuniform="true" reflectance=".2"/>
+    <mesh name="chasis" scale=".10 .06 .015"
+      vertex=" 9   2   0
+              -10  10  10
+               9  -2   0
+               10  3  -10
+               10 -3  -10
+              -8   10 -10
+              -10 -10  10
+              -8  -10 -10
+              -5   0   20"/>
+  </asset>
+
+  <!-- Cài đặt mặc định -->
+  <default>
+    <joint damping=".03" actuatorfrcrange="-100000 100000"/>
+    <default class="wheel">
+      <geom type="cylinder" size=".30 .10" rgba="0.1 0.1 0.1 1"/>
+    </default>
+    <default class="decor">
+      <site type="box" rgba=".5 1 .5 1"/>
+    </default>
+  </default>
+
+  <worldbody>
+    <!-- Mặt sàn -->
+    <geom name="ground" type="plane" size="75 75 0.1" pos="0 0 0" rgba="0.8 0.9 0.8 1"/>
+    
+    <!-- Tường bao quanh -->
+    <geom name="wall_north" type="box" size="75 5 10" pos="0 70 10" rgba="0.7 0.7 0.7 1"/>
+    <geom name="wall_south" type="box" size="75 5 10" pos="0 -70 10" rgba="0.7 0.7 0.7 1"/>
+    <geom name="wall_east"  type="box" size="5 75 10" pos="70 0 10" rgba="0.7 0.7 0.7 1"/>
+    <geom name="wall_west"  type="box" size="5 75 10" pos="-70 0 10" rgba="0.7 0.7 0.7 1"/>
+    
+    <!-- Bệ đỡ -->
+    <body name="red_pedestal" pos="-30 0 4">
+      <geom type="cylinder" size="0.5 4" pos="0 0 0.25" rgba="1 0 0 1"/>
+      <geom type="box" size="1 1 0.25" pos="0 0 -3.75" rgba="0.5 0 0 1"/>
+    </body>
+    <body name="green_pedestal" pos="0 30 4">
+      <geom type="cylinder" size="0.5 4" pos="0 0 0.25" rgba="0 1 0 1"/>
+      <geom type="box" size="1 1 0.25" pos="0 0 -3.75" rgba="0 0.5 0 1"/>
+    </body>
+    <body name="blue_pedestal" pos="30 -30 4">
+      <geom type="cylinder" size="0.5 4" pos="0 0 0.25" rgba="0 0 1 1"/>
+      <geom type="box" size="1 1 0.25" pos="0 0 -3.75" rgba="0 0 0.5 1"/>
+    </body>
+
+    <!-- Model xe -->
+    <body name="car" pos="0 0 .03">
+      <freejoint/>
+      <light name="top light" pos="0 0 2" mode="trackcom" diffuse=".4 .4 .4"/>
+     <geom name="chasis" type="mesh" mesh="chasis" mass="0.5" rgba="0.1 0.1 0.1 1"/>
+      <geom name="front wheel" pos=".8 0 -.15" type="sphere" size=".15" rgba="0.1 0.1 0.1 1" condim="1" priority="1"/>
+      <light name="front light" pos=".1 0 .02" dir="2 0 -1" diffuse="1 1 1"/>
+      <body name="left wheel" pos="-.70 .6 0" zaxis="0 1 0">
+        <joint name="left"/>
+        <geom class="wheel"/>
+        <site class="decor" size=".06 .25 .12"/>
+        <site class="decor" size=".25 .06 .12"/>
+      </body>
+      <body name="right wheel" pos="-.70 -.6 0" zaxis="0 1 0">
+        <joint name="right"/>
+        <geom class="wheel"/>
+        <site class="decor" size=".06 .25 .12"/>
+        <site class="decor" size=".25 .06 .12"/>
+      </body>
+    </body>
+
+    <!-- Ánh sáng -->
+    <light directional="true" diffuse="1.2 1.2 1.2" specular="0.4 0.4 0.4" pos="0 0 50" dir="0 0 -1"/>
+    <light directional="true" diffuse="0.7 0.7 0.7" specular="0.2 0.2 0.2" pos="25 25 25" dir="-1 -1 -1"/>
+  </worldbody>
+
+  <tendon>
+    <fixed name="forward">
+      <joint joint="left" coef="1"/>
+      <joint joint="right" coef="1"/>
+    </fixed>
+    <fixed name="turn">
+      <joint joint="left" coef="-2"/>
+      <joint joint="right" coef="2"/>
+    </fixed>
+  </tendon>
+
+  <actuator>
+    <motor name="forward" tendon="forward" ctrlrange="-10 10"/>
+    <motor name="turn" tendon="turn" ctrlrange="-10 10"/>
+  </actuator>
+
+  <sensor>
+    <jointactuatorfrc name="right" joint="right"/>
+    <jointactuatorfrc name="left" joint="left"/>
+  </sensor>
+</mujoco>
