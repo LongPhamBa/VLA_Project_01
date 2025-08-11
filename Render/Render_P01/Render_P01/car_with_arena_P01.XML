@@ -27,8 +27,10 @@
 	</default>
 
 	<worldbody>
+		
 		<!-- Camera cố định -->
-		<camera name="topdown" pos="0 0 10" euler="90 0 0" fovy="60"/>
+		<camera name="topdown" pos="0 0 12" euler="0 0 0" fovy="60"/>
+		<camera name="fixed_cam" pos="0 -10 5" euler="45 0 0" fovy="60"/>
 
 		<!-- Sàn -->
 		<geom type="plane" size="6 6 .01" material="grid"/>

@@ -1,42 +1,37 @@
 ﻿import mujoco
 import numpy as np
-import matplotlib.pyplot as plt
+import cv2
 
-# Load model & data
-model = mujoco.MjModel.from_xml_path("arena_P01.xml")
+# === Load model và data ===
+model = mujoco.MjModel.from_xml_path("car_with_arena_P01.XML")
 data = mujoco.MjData(model)
 
-# Tạo scene và context để render
-scene = mujoco.MjvScene(model, maxgeom=10000)
-context = mujoco.MjrContext(model, mujoco.mjtFontScale.mjFONTSCALE_100)
+# === Khởi tạo renderer (84x84 cho mô hình) ===
+renderer = mujoco.Renderer(model, height=84, width=84)
 
-# Kích thước ảnh 84×84
-cam_width, cam_height = 84, 84
-rgb_buffer = np.zeros((cam_height, cam_width, 3), dtype=np.uint8)
+# Bước mô phỏng ban đầu
+mujoco.mj_forward(model, data)
 
-# Chọn camera (theo ID trong XML)
-cam = mujoco.MjvCamera()
-cam.type = mujoco.mjtCamera.mjCAMERA_FIXED
-cam.fixedcamid = mujoco.mj_name2id(model, mujoco.mjtObj.mjOBJ_CAMERA, "main_cam")
+# Render từ camera "topdown"
+renderer.update_scene(data, camera="topdown")
+rgb_image = renderer.render()   # Ảnh RGB 84x84 cho mô hình
 
-# Step mô phỏng
-mujoco.mj_step(model, data)
+# ================== [SHOW ẢNH - CÓ THỂ XÓA SAU] ==================
+# Convert sang BGR để OpenCV hiển thị
+bgr_image = cv2.cvtColor(rgb_image, cv2.COLOR_RGB2BGR)
 
-# Cập nhật scene
-mujoco.mjv_updateScene(model, data, mujoco.MjvOption(),
-                       None, cam, mujoco.mjtCatBit.mjCAT_ALL, scene)
+# Cho phép cửa sổ thay đổi kích thước
+cv2.namedWindow("Topdown Camera View", cv2.WINDOW_NORMAL)
 
-# Render vào buffer
-mujoco.mjr_render(mujoco.MjrRect(0, 0, cam_width, cam_height), scene, context)
+# Phóng to ảnh để dễ xem (vd: 420x420)
+display_image = cv2.resize(bgr_image, (420, 420), interpolation=cv2.INTER_NEAREST)
 
-# Lấy ảnh RGB
-mujoco.mjr_readPixels(rgb_buffer, None,
-                      mujoco.MjrRect(0, 0, cam_width, cam_height), context)
+# (Tùy chọn) Đặt kích thước cửa sổ lớn hơn
+cv2.resizeWindow("Topdown Camera View", 420, 420)
 
-# Lật ảnh (MuJoCo trả về bị ngược trục dọc)
-rgb_buffer = np.flipud(rgb_buffer)
+# Hiển thị ảnh
+cv2.imshow("Topdown Camera View", display_image)
 
-# Hiển thị
-plt.imshow(rgb_buffer)
-plt.axis("off")
-plt.show()
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+# ===============================================================

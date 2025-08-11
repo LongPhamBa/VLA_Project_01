@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ecd1e4da-3af9-4984-a46a-607dab339e5f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Render_P01.py</StartupFile>
+    <StartupFile>Update_Render_P01.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,9 +22,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Render_P01.py" />
+    <Compile Include="Update_Render_P01.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="arena_P01.XML" />
+    <Content Include="car_with_arena_P01.XML" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
