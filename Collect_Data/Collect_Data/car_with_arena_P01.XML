@@ -1,6 +1,6 @@
 <mujoco>
 	<compiler autolimits="true"/>
-	<option timestep="0.001"/>
+	<option timestep="0.01"/>
 	<asset>
 		<texture name="grid" type="2d" builtin="checker" width="512" height="512" rgb1=".1 .2 .3" rgb2=".2 .3 .4"/>
 		<material name="grid" texture="grid" texrepeat="1 1" texuniform="true" reflectance=".2"/>
@@ -17,7 +17,7 @@
 	</asset>
 
 	<default>
-		<joint damping=".03" actuatorfrcrange="-4 4"/>
+		<joint damping=".03" actuatorfrcrange="-5 5"/>
 		<default class="wheel">
 			<geom type="cylinder" size=".03 .01" rgba="0.1 0.1 0.1 1"/>
 		</default>

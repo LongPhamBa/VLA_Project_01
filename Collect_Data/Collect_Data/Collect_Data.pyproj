@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>ecd1e4da-3af9-4984-a46a-607dab339e5f</ProjectGuid>
+    <ProjectGuid>c03dc23c-39be-408d-8449-575120245208</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Oracle_controller.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Render_P01</Name>
-    <RootNamespace>Render_P01</RootNamespace>
+    <Name>Collect_Data</Name>
+    <RootNamespace>Collect_Data</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,17 +21,22 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Check_episodes_P01.py" />
-    <Compile Include="Data_collection_P01.py" />
-    <Compile Include="Oracle_controller.py" />
-    <Compile Include="Render_P01.py" />
-    <Compile Include="Update_Render_P01.py" />
+    <Compile Include="Collect_Data.py" />
+    <Compile Include="config.py" />
+    <Compile Include="controller.py" />
+    <Compile Include="episode_saver.py" />
+    <Compile Include="labels.py" />
+    <Compile Include="metadata.py" />
+    <Compile Include="simulation.py" />
+    <Compile Include="main.py" />
+    <Compile Include="model_utils.py" />
+    <Compile Include="randomizer.py" />
+    <Compile Include="test_controller.py" />
+    <Compile Include="test_controller_2.py" />
+    <Compile Include="test_episode.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="arena_P01.XML" />
     <Content Include="car_with_arena_P01.XML" />
-    <Content Include="episode_00002.npz" />
-    <Content Include="episode_00003.npz" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
