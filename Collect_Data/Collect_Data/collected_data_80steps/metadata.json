@@ -3,144 +3,4529 @@
     "episode": 0,
     "command": "go to the green pillar",
     "steps": 70,
-    "file": "collected_data_80steps\\episode_00000.npz"
+    "file": "collected_data_80steps\\episode_00000.npz",
+    "success": true
   },
   {
     "episode": 1,
     "command": "go to the green pillar",
     "steps": 65,
-    "file": "collected_data_80steps\\episode_00001.npz"
+    "file": "collected_data_80steps\\episode_00001.npz",
+    "success": true
   },
   {
     "episode": 2,
     "command": "go to the green pillar",
     "steps": 43,
-    "file": "collected_data_80steps\\episode_00002.npz"
+    "file": "collected_data_80steps\\episode_00002.npz",
+    "success": true
   },
   {
     "episode": 3,
     "command": "go to the green pillar",
     "steps": 103,
-    "file": "collected_data_80steps\\episode_00003.npz"
+    "file": "collected_data_80steps\\episode_00003.npz",
+    "success": true
   },
   {
     "episode": 4,
     "command": "go to the green pillar",
     "steps": 78,
-    "file": "collected_data_80steps\\episode_00004.npz"
+    "file": "collected_data_80steps\\episode_00004.npz",
+    "success": true
   },
   {
     "episode": 5,
     "command": "go to the red pillar",
     "steps": 65,
-    "file": "collected_data_80steps\\episode_00005.npz"
+    "file": "collected_data_80steps\\episode_00005.npz",
+    "success": true
   },
   {
     "episode": 6,
     "command": "go to the red pillar",
     "steps": 29,
-    "file": "collected_data_80steps\\episode_00006.npz"
+    "file": "collected_data_80steps\\episode_00006.npz",
+    "success": true
   },
   {
     "episode": 7,
     "command": "go to the red pillar",
     "steps": 45,
-    "file": "collected_data_80steps\\episode_00007.npz"
+    "file": "collected_data_80steps\\episode_00007.npz",
+    "success": true
   },
   {
     "episode": 8,
     "command": "go to the blue pillar",
     "steps": 41,
-    "file": "collected_data_80steps\\episode_00008.npz"
+    "file": "collected_data_80steps\\episode_00008.npz",
+    "success": true
   },
   {
     "episode": 9,
     "command": "go to the blue pillar",
     "steps": 88,
-    "file": "collected_data_80steps\\episode_00009.npz"
+    "file": "collected_data_80steps\\episode_00009.npz",
+    "success": true
   },
   {
     "episode": 10,
     "command": "go to the red pillar",
     "steps": 87,
-    "file": "collected_data_80steps\\episode_00010.npz"
+    "file": "collected_data_80steps\\episode_00010.npz",
+    "success": true
   },
   {
     "episode": 11,
     "command": "go to the green pillar",
     "steps": 47,
-    "file": "collected_data_80steps\\episode_00011.npz"
+    "file": "collected_data_80steps\\episode_00011.npz",
+    "success": true
   },
   {
     "episode": 12,
     "command": "go to the green pillar",
     "steps": 91,
-    "file": "collected_data_80steps\\episode_00012.npz"
+    "file": "collected_data_80steps\\episode_00012.npz",
+    "success": true
   },
   {
     "episode": 13,
     "command": "go to the red pillar",
     "steps": 69,
-    "file": "collected_data_80steps\\episode_00013.npz"
+    "file": "collected_data_80steps\\episode_00013.npz",
+    "success": true
   },
   {
     "episode": 14,
     "command": "go to the green pillar",
     "steps": 76,
-    "file": "collected_data_80steps\\episode_00014.npz"
+    "file": "collected_data_80steps\\episode_00014.npz",
+    "success": true
   },
   {
     "episode": 15,
     "command": "go to the green pillar",
     "steps": 81,
-    "file": "collected_data_80steps\\episode_00015.npz"
+    "file": "collected_data_80steps\\episode_00015.npz",
+    "success": true
   },
   {
     "episode": 16,
     "command": "go to the blue pillar",
     "steps": 31,
-    "file": "collected_data_80steps\\episode_00016.npz"
+    "file": "collected_data_80steps\\episode_00016.npz",
+    "success": true
   },
   {
     "episode": 17,
     "command": "go to the blue pillar",
     "steps": 73,
-    "file": "collected_data_80steps\\episode_00017.npz"
+    "file": "collected_data_80steps\\episode_00017.npz",
+    "success": true
   },
   {
     "episode": 18,
     "command": "go to the red pillar",
     "steps": 49,
-    "file": "collected_data_80steps\\episode_00018.npz"
+    "file": "collected_data_80steps\\episode_00018.npz",
+    "success": true
   },
   {
     "episode": 19,
     "command": "go to the green pillar",
     "steps": 50,
-    "file": "collected_data_80steps\\episode_00019.npz"
+    "file": "collected_data_80steps\\episode_00019.npz",
+    "success": true
   },
   {
     "episode": 20,
     "command": "go to the blue pillar",
     "steps": 64,
-    "file": "collected_data_80steps\\episode_00020.npz"
+    "file": "collected_data_80steps\\episode_00020.npz",
+    "success": true
   },
   {
     "episode": 21,
     "command": "go to the green pillar",
     "steps": 59,
-    "file": "collected_data_80steps\\episode_00021.npz"
+    "file": "collected_data_80steps\\episode_00021.npz",
+    "success": true
   },
   {
     "episode": 22,
     "command": "go to the red pillar",
     "steps": 52,
-    "file": "collected_data_80steps\\episode_00022.npz"
+    "file": "collected_data_80steps\\episode_00022.npz",
+    "success": true
   },
   {
     "episode": 23,
     "command": "go to the blue pillar",
     "steps": 53,
-    "file": "collected_data_80steps\\episode_00023.npz"
+    "file": "collected_data_80steps\\episode_00023.npz",
+    "success": true
+  },
+  {
+    "episode": 24,
+    "command": "go to the green pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00024.npz",
+    "success": true
+  },
+  {
+    "episode": 25,
+    "command": "go to the red pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00025.npz",
+    "success": true
+  },
+  {
+    "episode": 26,
+    "command": "go to the blue pillar",
+    "steps": 92,
+    "file": "collected_data_80steps\\episode_00026.npz",
+    "success": true
+  },
+  {
+    "episode": 27,
+    "command": "go to the blue pillar",
+    "steps": 98,
+    "file": "collected_data_80steps\\episode_00027.npz",
+    "success": true
+  },
+  {
+    "episode": 28,
+    "command": "go to the blue pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00028.npz",
+    "success": true
+  },
+  {
+    "episode": 29,
+    "command": "go to the green pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00029.npz",
+    "success": true
+  },
+  {
+    "episode": 30,
+    "command": "go to the blue pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00030.npz",
+    "success": true
+  },
+  {
+    "episode": 31,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00031.npz",
+    "success": true
+  },
+  {
+    "episode": 32,
+    "command": "go to the green pillar",
+    "steps": 161,
+    "file": "collected_data_80steps\\episode_00032.npz",
+    "success": true
+  },
+  {
+    "episode": 33,
+    "command": "go to the blue pillar",
+    "steps": 35,
+    "file": "collected_data_80steps\\episode_00033.npz",
+    "success": true
+  },
+  {
+    "episode": 34,
+    "command": "go to the blue pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00034.npz",
+    "success": true
+  },
+  {
+    "episode": 35,
+    "command": "go to the green pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00035.npz",
+    "success": true
+  },
+  {
+    "episode": 36,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00036.npz",
+    "success": true
+  },
+  {
+    "episode": 37,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00037.npz",
+    "success": true
+  },
+  {
+    "episode": 38,
+    "command": "go to the green pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00038.npz",
+    "success": true
+  },
+  {
+    "episode": 39,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00039.npz",
+    "success": true
+  },
+  {
+    "episode": 40,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00040.npz",
+    "success": true
+  },
+  {
+    "episode": 41,
+    "command": "go to the red pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00041.npz",
+    "success": true
+  },
+  {
+    "episode": 42,
+    "command": "go to the green pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00042.npz",
+    "success": true
+  },
+  {
+    "episode": 43,
+    "command": "go to the blue pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00043.npz",
+    "success": true
+  },
+  {
+    "episode": 44,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00044.npz",
+    "success": true
+  },
+  {
+    "episode": 45,
+    "command": "go to the green pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00045.npz",
+    "success": true
+  },
+  {
+    "episode": 46,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00046.npz",
+    "success": true
+  },
+  {
+    "episode": 47,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00047.npz",
+    "success": true
+  },
+  {
+    "episode": 48,
+    "command": "go to the red pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00048.npz",
+    "success": true
+  },
+  {
+    "episode": 49,
+    "command": "go to the blue pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00049.npz",
+    "success": true
+  },
+  {
+    "episode": 50,
+    "command": "go to the red pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00050.npz",
+    "success": true
+  },
+  {
+    "episode": 51,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00051.npz",
+    "success": true
+  },
+  {
+    "episode": 52,
+    "command": "go to the blue pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00052.npz",
+    "success": true
+  },
+  {
+    "episode": 53,
+    "command": "go to the red pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00053.npz",
+    "success": true
+  },
+  {
+    "episode": 54,
+    "command": "go to the blue pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00054.npz",
+    "success": true
+  },
+  {
+    "episode": 55,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00055.npz",
+    "success": true
+  },
+  {
+    "episode": 56,
+    "command": "go to the green pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00056.npz",
+    "success": true
+  },
+  {
+    "episode": 57,
+    "command": "go to the green pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00057.npz",
+    "success": true
+  },
+  {
+    "episode": 58,
+    "command": "go to the blue pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00058.npz",
+    "success": true
+  },
+  {
+    "episode": 59,
+    "command": "go to the green pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00059.npz",
+    "success": true
+  },
+  {
+    "episode": 60,
+    "command": "go to the blue pillar",
+    "steps": 101,
+    "file": "collected_data_80steps\\episode_00060.npz",
+    "success": true
+  },
+  {
+    "episode": 61,
+    "command": "go to the blue pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00061.npz",
+    "success": true
+  },
+  {
+    "episode": 62,
+    "command": "go to the blue pillar",
+    "steps": 104,
+    "file": "collected_data_80steps\\episode_00062.npz",
+    "success": true
+  },
+  {
+    "episode": 63,
+    "command": "go to the blue pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00063.npz",
+    "success": true
+  },
+  {
+    "episode": 64,
+    "command": "go to the red pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00064.npz",
+    "success": true
+  },
+  {
+    "episode": 65,
+    "command": "go to the green pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00065.npz",
+    "success": true
+  },
+  {
+    "episode": 66,
+    "command": "go to the blue pillar",
+    "steps": 117,
+    "file": "collected_data_80steps\\episode_00066.npz",
+    "success": true
+  },
+  {
+    "episode": 67,
+    "command": "go to the red pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00067.npz",
+    "success": true
+  },
+  {
+    "episode": 68,
+    "command": "go to the red pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00068.npz",
+    "success": true
+  },
+  {
+    "episode": 69,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00069.npz",
+    "success": true
+  },
+  {
+    "episode": 70,
+    "command": "go to the blue pillar",
+    "steps": 32,
+    "file": "collected_data_80steps\\episode_00070.npz",
+    "success": true
+  },
+  {
+    "episode": 71,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00071.npz",
+    "success": true
+  },
+  {
+    "episode": 72,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00072.npz",
+    "success": true
+  },
+  {
+    "episode": 73,
+    "command": "go to the green pillar",
+    "steps": 33,
+    "file": "collected_data_80steps\\episode_00073.npz",
+    "success": true
+  },
+  {
+    "episode": 74,
+    "command": "go to the blue pillar",
+    "steps": 98,
+    "file": "collected_data_80steps\\episode_00074.npz",
+    "success": true
+  },
+  {
+    "episode": 75,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00075.npz",
+    "success": true
+  },
+  {
+    "episode": 76,
+    "command": "go to the red pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00076.npz",
+    "success": true
+  },
+  {
+    "episode": 77,
+    "command": "go to the red pillar",
+    "steps": 33,
+    "file": "collected_data_80steps\\episode_00077.npz",
+    "success": true
+  },
+  {
+    "episode": 78,
+    "command": "go to the blue pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00078.npz",
+    "success": true
+  },
+  {
+    "episode": 79,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00079.npz",
+    "success": true
+  },
+  {
+    "episode": 80,
+    "command": "go to the red pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00080.npz",
+    "success": true
+  },
+  {
+    "episode": 81,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00081.npz",
+    "success": true
+  },
+  {
+    "episode": 82,
+    "command": "go to the green pillar",
+    "steps": 33,
+    "file": "collected_data_80steps\\episode_00082.npz",
+    "success": true
+  },
+  {
+    "episode": 83,
+    "command": "go to the green pillar",
+    "steps": 38,
+    "file": "collected_data_80steps\\episode_00083.npz",
+    "success": true
+  },
+  {
+    "episode": 84,
+    "command": "go to the red pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00084.npz",
+    "success": true
+  },
+  {
+    "episode": 85,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00085.npz",
+    "success": true
+  },
+  {
+    "episode": 86,
+    "command": "go to the red pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00086.npz",
+    "success": true
+  },
+  {
+    "episode": 87,
+    "command": "go to the green pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00087.npz",
+    "success": true
+  },
+  {
+    "episode": 88,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00088.npz",
+    "success": true
+  },
+  {
+    "episode": 89,
+    "command": "go to the red pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00089.npz",
+    "success": true
+  },
+  {
+    "episode": 90,
+    "command": "go to the red pillar",
+    "steps": 115,
+    "file": "collected_data_80steps\\episode_00090.npz",
+    "success": true
+  },
+  {
+    "episode": 91,
+    "command": "go to the blue pillar",
+    "steps": 30,
+    "file": "collected_data_80steps\\episode_00091.npz",
+    "success": true
+  },
+  {
+    "episode": 92,
+    "command": "go to the red pillar",
+    "steps": 103,
+    "file": "collected_data_80steps\\episode_00092.npz",
+    "success": true
+  },
+  {
+    "episode": 93,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00093.npz",
+    "success": true
+  },
+  {
+    "episode": 94,
+    "command": "go to the green pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00094.npz",
+    "success": true
+  },
+  {
+    "episode": 95,
+    "command": "go to the green pillar",
+    "steps": 88,
+    "file": "collected_data_80steps\\episode_00095.npz",
+    "success": true
+  },
+  {
+    "episode": 96,
+    "command": "go to the red pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00096.npz",
+    "success": true
+  },
+  {
+    "episode": 97,
+    "command": "go to the red pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00097.npz",
+    "success": true
+  },
+  {
+    "episode": 98,
+    "command": "go to the blue pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00098.npz",
+    "success": true
+  },
+  {
+    "episode": 99,
+    "command": "go to the red pillar",
+    "steps": 98,
+    "file": "collected_data_80steps\\episode_00099.npz",
+    "success": true
+  },
+  {
+    "episode": 100,
+    "command": "go to the green pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00100.npz",
+    "success": true
+  },
+  {
+    "episode": 101,
+    "command": "go to the blue pillar",
+    "steps": 101,
+    "file": "collected_data_80steps\\episode_00101.npz",
+    "success": true
+  },
+  {
+    "episode": 102,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00102.npz",
+    "success": true
+  },
+  {
+    "episode": 103,
+    "command": "go to the blue pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00103.npz",
+    "success": true
+  },
+  {
+    "episode": 104,
+    "command": "go to the green pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00104.npz",
+    "success": true
+  },
+  {
+    "episode": 105,
+    "command": "go to the red pillar",
+    "steps": 103,
+    "file": "collected_data_80steps\\episode_00105.npz",
+    "success": true
+  },
+  {
+    "episode": 106,
+    "command": "go to the red pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00106.npz",
+    "success": true
+  },
+  {
+    "episode": 107,
+    "command": "go to the red pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00107.npz",
+    "success": true
+  },
+  {
+    "episode": 108,
+    "command": "go to the blue pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00108.npz",
+    "success": true
+  },
+  {
+    "episode": 109,
+    "command": "go to the red pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00109.npz",
+    "success": true
+  },
+  {
+    "episode": 110,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00110.npz",
+    "success": true
+  },
+  {
+    "episode": 111,
+    "command": "go to the blue pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00111.npz",
+    "success": true
+  },
+  {
+    "episode": 112,
+    "command": "go to the red pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00112.npz",
+    "success": true
+  },
+  {
+    "episode": 113,
+    "command": "go to the green pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00113.npz",
+    "success": true
+  },
+  {
+    "episode": 114,
+    "command": "go to the red pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00114.npz",
+    "success": true
+  },
+  {
+    "episode": 115,
+    "command": "go to the blue pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00115.npz",
+    "success": true
+  },
+  {
+    "episode": 116,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00116.npz",
+    "success": true
+  },
+  {
+    "episode": 117,
+    "command": "go to the blue pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00117.npz",
+    "success": true
+  },
+  {
+    "episode": 118,
+    "command": "go to the green pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00118.npz",
+    "success": true
+  },
+  {
+    "episode": 119,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00119.npz",
+    "success": true
+  },
+  {
+    "episode": 120,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00120.npz",
+    "success": true
+  },
+  {
+    "episode": 121,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00121.npz",
+    "success": true
+  },
+  {
+    "episode": 122,
+    "command": "go to the blue pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00122.npz",
+    "success": true
+  },
+  {
+    "episode": 123,
+    "command": "go to the blue pillar",
+    "steps": 54,
+    "file": "collected_data_80steps\\episode_00123.npz",
+    "success": true
+  },
+  {
+    "episode": 124,
+    "command": "go to the green pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00124.npz",
+    "success": true
+  },
+  {
+    "episode": 125,
+    "command": "go to the blue pillar",
+    "steps": 113,
+    "file": "collected_data_80steps\\episode_00125.npz",
+    "success": true
+  },
+  {
+    "episode": 126,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00126.npz",
+    "success": true
+  },
+  {
+    "episode": 127,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00127.npz",
+    "success": true
+  },
+  {
+    "episode": 128,
+    "command": "go to the green pillar",
+    "steps": 105,
+    "file": "collected_data_80steps\\episode_00128.npz",
+    "success": true
+  },
+  {
+    "episode": 129,
+    "command": "go to the red pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00129.npz",
+    "success": true
+  },
+  {
+    "episode": 130,
+    "command": "go to the blue pillar",
+    "steps": 116,
+    "file": "collected_data_80steps\\episode_00130.npz",
+    "success": true
+  },
+  {
+    "episode": 131,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00131.npz",
+    "success": true
+  },
+  {
+    "episode": 132,
+    "command": "go to the green pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00132.npz",
+    "success": true
+  },
+  {
+    "episode": 133,
+    "command": "go to the red pillar",
+    "steps": 104,
+    "file": "collected_data_80steps\\episode_00133.npz",
+    "success": true
+  },
+  {
+    "episode": 134,
+    "command": "go to the blue pillar",
+    "steps": 109,
+    "file": "collected_data_80steps\\episode_00134.npz",
+    "success": true
+  },
+  {
+    "episode": 135,
+    "command": "go to the green pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00135.npz",
+    "success": true
+  },
+  {
+    "episode": 136,
+    "command": "go to the red pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00136.npz",
+    "success": true
+  },
+  {
+    "episode": 137,
+    "command": "go to the green pillar",
+    "steps": 112,
+    "file": "collected_data_80steps\\episode_00137.npz",
+    "success": true
+  },
+  {
+    "episode": 138,
+    "command": "go to the blue pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00138.npz",
+    "success": true
+  },
+  {
+    "episode": 139,
+    "command": "go to the blue pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00139.npz",
+    "success": true
+  },
+  {
+    "episode": 140,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00140.npz",
+    "success": true
+  },
+  {
+    "episode": 141,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00141.npz",
+    "success": true
+  },
+  {
+    "episode": 142,
+    "command": "go to the green pillar",
+    "steps": 88,
+    "file": "collected_data_80steps\\episode_00142.npz",
+    "success": true
+  },
+  {
+    "episode": 143,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00143.npz",
+    "success": true
+  },
+  {
+    "episode": 144,
+    "command": "go to the red pillar",
+    "steps": 29,
+    "file": "collected_data_80steps\\episode_00144.npz",
+    "success": true
+  },
+  {
+    "episode": 145,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00145.npz",
+    "success": true
+  },
+  {
+    "episode": 146,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00146.npz",
+    "success": true
+  },
+  {
+    "episode": 147,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00147.npz",
+    "success": true
+  },
+  {
+    "episode": 148,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00148.npz",
+    "success": true
+  },
+  {
+    "episode": 149,
+    "command": "go to the green pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00149.npz",
+    "success": true
+  },
+  {
+    "episode": 150,
+    "command": "go to the blue pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00150.npz",
+    "success": true
+  },
+  {
+    "episode": 151,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00151.npz",
+    "success": true
+  },
+  {
+    "episode": 152,
+    "command": "go to the green pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00152.npz",
+    "success": true
+  },
+  {
+    "episode": 153,
+    "command": "go to the blue pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00153.npz",
+    "success": true
+  },
+  {
+    "episode": 154,
+    "command": "go to the red pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00154.npz",
+    "success": true
+  },
+  {
+    "episode": 155,
+    "command": "go to the red pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00155.npz",
+    "success": true
+  },
+  {
+    "episode": 156,
+    "command": "go to the red pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00156.npz",
+    "success": true
+  },
+  {
+    "episode": 157,
+    "command": "go to the blue pillar",
+    "steps": 121,
+    "file": "collected_data_80steps\\episode_00157.npz",
+    "success": true
+  },
+  {
+    "episode": 158,
+    "command": "go to the blue pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00158.npz",
+    "success": true
+  },
+  {
+    "episode": 159,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00159.npz",
+    "success": true
+  },
+  {
+    "episode": 160,
+    "command": "go to the green pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00160.npz",
+    "success": true
+  },
+  {
+    "episode": 161,
+    "command": "go to the red pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00161.npz",
+    "success": true
+  },
+  {
+    "episode": 162,
+    "command": "go to the blue pillar",
+    "steps": 40,
+    "file": "collected_data_80steps\\episode_00162.npz",
+    "success": true
+  },
+  {
+    "episode": 163,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00163.npz",
+    "success": true
+  },
+  {
+    "episode": 164,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00164.npz",
+    "success": true
+  },
+  {
+    "episode": 165,
+    "command": "go to the green pillar",
+    "steps": 109,
+    "file": "collected_data_80steps\\episode_00165.npz",
+    "success": true
+  },
+  {
+    "episode": 166,
+    "command": "go to the blue pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00166.npz",
+    "success": true
+  },
+  {
+    "episode": 167,
+    "command": "go to the blue pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00167.npz",
+    "success": true
+  },
+  {
+    "episode": 168,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00168.npz",
+    "success": true
+  },
+  {
+    "episode": 169,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00169.npz",
+    "success": true
+  },
+  {
+    "episode": 170,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00170.npz",
+    "success": true
+  },
+  {
+    "episode": 171,
+    "command": "go to the green pillar",
+    "steps": 33,
+    "file": "collected_data_80steps\\episode_00171.npz",
+    "success": true
+  },
+  {
+    "episode": 172,
+    "command": "go to the red pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00172.npz",
+    "success": true
+  },
+  {
+    "episode": 173,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00173.npz",
+    "success": true
+  },
+  {
+    "episode": 174,
+    "command": "go to the blue pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00174.npz",
+    "success": true
+  },
+  {
+    "episode": 175,
+    "command": "go to the red pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00175.npz",
+    "success": true
+  },
+  {
+    "episode": 176,
+    "command": "go to the red pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00176.npz",
+    "success": true
+  },
+  {
+    "episode": 177,
+    "command": "go to the red pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00177.npz",
+    "success": true
+  },
+  {
+    "episode": 178,
+    "command": "go to the blue pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00178.npz",
+    "success": true
+  },
+  {
+    "episode": 179,
+    "command": "go to the green pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00179.npz",
+    "success": true
+  },
+  {
+    "episode": 180,
+    "command": "go to the blue pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00180.npz",
+    "success": true
+  },
+  {
+    "episode": 181,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00181.npz",
+    "success": true
+  },
+  {
+    "episode": 182,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00182.npz",
+    "success": true
+  },
+  {
+    "episode": 183,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00183.npz",
+    "success": true
+  },
+  {
+    "episode": 184,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00184.npz",
+    "success": true
+  },
+  {
+    "episode": 185,
+    "command": "go to the blue pillar",
+    "steps": 100,
+    "file": "collected_data_80steps\\episode_00185.npz",
+    "success": true
+  },
+  {
+    "episode": 186,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00186.npz",
+    "success": true
+  },
+  {
+    "episode": 187,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00187.npz",
+    "success": true
+  },
+  {
+    "episode": 188,
+    "command": "go to the blue pillar",
+    "steps": 44,
+    "file": "collected_data_80steps\\episode_00188.npz",
+    "success": true
+  },
+  {
+    "episode": 189,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00189.npz",
+    "success": true
+  },
+  {
+    "episode": 190,
+    "command": "go to the blue pillar",
+    "steps": 99,
+    "file": "collected_data_80steps\\episode_00190.npz",
+    "success": true
+  },
+  {
+    "episode": 191,
+    "command": "go to the red pillar",
+    "steps": 105,
+    "file": "collected_data_80steps\\episode_00191.npz",
+    "success": true
+  },
+  {
+    "episode": 192,
+    "command": "go to the red pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00192.npz",
+    "success": true
+  },
+  {
+    "episode": 193,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00193.npz",
+    "success": true
+  },
+  {
+    "episode": 194,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00194.npz",
+    "success": true
+  },
+  {
+    "episode": 195,
+    "command": "go to the blue pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00195.npz",
+    "success": true
+  },
+  {
+    "episode": 196,
+    "command": "go to the red pillar",
+    "steps": 34,
+    "file": "collected_data_80steps\\episode_00196.npz",
+    "success": true
+  },
+  {
+    "episode": 197,
+    "command": "go to the red pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00197.npz",
+    "success": true
+  },
+  {
+    "episode": 198,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00198.npz",
+    "success": true
+  },
+  {
+    "episode": 199,
+    "command": "go to the blue pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00199.npz",
+    "success": true
+  },
+  {
+    "episode": 200,
+    "command": "go to the blue pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00200.npz",
+    "success": true
+  },
+  {
+    "episode": 201,
+    "command": "go to the blue pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00201.npz",
+    "success": true
+  },
+  {
+    "episode": 202,
+    "command": "go to the blue pillar",
+    "steps": 17,
+    "file": "collected_data_80steps\\episode_00202.npz",
+    "success": true
+  },
+  {
+    "episode": 203,
+    "command": "go to the red pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00203.npz",
+    "success": true
+  },
+  {
+    "episode": 204,
+    "command": "go to the red pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00204.npz",
+    "success": true
+  },
+  {
+    "episode": 205,
+    "command": "go to the red pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00205.npz",
+    "success": true
+  },
+  {
+    "episode": 206,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00206.npz",
+    "success": true
+  },
+  {
+    "episode": 207,
+    "command": "go to the blue pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00207.npz",
+    "success": true
+  },
+  {
+    "episode": 208,
+    "command": "go to the blue pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00208.npz",
+    "success": true
+  },
+  {
+    "episode": 209,
+    "command": "go to the blue pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00209.npz",
+    "success": true
+  },
+  {
+    "episode": 210,
+    "command": "go to the red pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00210.npz",
+    "success": true
+  },
+  {
+    "episode": 211,
+    "command": "go to the green pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00211.npz",
+    "success": true
+  },
+  {
+    "episode": 212,
+    "command": "go to the green pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00212.npz",
+    "success": true
+  },
+  {
+    "episode": 213,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00213.npz",
+    "success": true
+  },
+  {
+    "episode": 214,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00214.npz",
+    "success": true
+  },
+  {
+    "episode": 215,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00215.npz",
+    "success": true
+  },
+  {
+    "episode": 216,
+    "command": "go to the blue pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00216.npz",
+    "success": true
+  },
+  {
+    "episode": 217,
+    "command": "go to the green pillar",
+    "steps": 34,
+    "file": "collected_data_80steps\\episode_00217.npz",
+    "success": true
+  },
+  {
+    "episode": 218,
+    "command": "go to the red pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00218.npz",
+    "success": true
+  },
+  {
+    "episode": 219,
+    "command": "go to the red pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00219.npz",
+    "success": true
+  },
+  {
+    "episode": 220,
+    "command": "go to the green pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00220.npz",
+    "success": true
+  },
+  {
+    "episode": 221,
+    "command": "go to the green pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00221.npz",
+    "success": true
+  },
+  {
+    "episode": 222,
+    "command": "go to the red pillar",
+    "steps": 109,
+    "file": "collected_data_80steps\\episode_00222.npz",
+    "success": true
+  },
+  {
+    "episode": 223,
+    "command": "go to the green pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00223.npz",
+    "success": true
+  },
+  {
+    "episode": 224,
+    "command": "go to the blue pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00224.npz",
+    "success": true
+  },
+  {
+    "episode": 225,
+    "command": "go to the red pillar",
+    "steps": 36,
+    "file": "collected_data_80steps\\episode_00225.npz",
+    "success": true
+  },
+  {
+    "episode": 226,
+    "command": "go to the green pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00226.npz",
+    "success": true
+  },
+  {
+    "episode": 227,
+    "command": "go to the green pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00227.npz",
+    "success": true
+  },
+  {
+    "episode": 228,
+    "command": "go to the blue pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00228.npz",
+    "success": true
+  },
+  {
+    "episode": 229,
+    "command": "go to the blue pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00229.npz",
+    "success": true
+  },
+  {
+    "episode": 230,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00230.npz",
+    "success": true
+  },
+  {
+    "episode": 231,
+    "command": "go to the blue pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00231.npz",
+    "success": true
+  },
+  {
+    "episode": 232,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00232.npz",
+    "success": true
+  },
+  {
+    "episode": 233,
+    "command": "go to the blue pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00233.npz",
+    "success": true
+  },
+  {
+    "episode": 234,
+    "command": "go to the green pillar",
+    "steps": 104,
+    "file": "collected_data_80steps\\episode_00234.npz",
+    "success": true
+  },
+  {
+    "episode": 235,
+    "command": "go to the blue pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00235.npz",
+    "success": true
+  },
+  {
+    "episode": 236,
+    "command": "go to the blue pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00236.npz",
+    "success": true
+  },
+  {
+    "episode": 237,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00237.npz",
+    "success": true
+  },
+  {
+    "episode": 238,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00238.npz",
+    "success": true
+  },
+  {
+    "episode": 239,
+    "command": "go to the green pillar",
+    "steps": 29,
+    "file": "collected_data_80steps\\episode_00239.npz",
+    "success": true
+  },
+  {
+    "episode": 240,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00240.npz",
+    "success": true
+  },
+  {
+    "episode": 241,
+    "command": "go to the green pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00241.npz",
+    "success": true
+  },
+  {
+    "episode": 242,
+    "command": "go to the blue pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00242.npz",
+    "success": true
+  },
+  {
+    "episode": 243,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00243.npz",
+    "success": true
+  },
+  {
+    "episode": 244,
+    "command": "go to the blue pillar",
+    "steps": 104,
+    "file": "collected_data_80steps\\episode_00244.npz",
+    "success": true
+  },
+  {
+    "episode": 245,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00245.npz",
+    "success": true
+  },
+  {
+    "episode": 246,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00246.npz",
+    "success": true
+  },
+  {
+    "episode": 247,
+    "command": "go to the green pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00247.npz",
+    "success": true
+  },
+  {
+    "episode": 248,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00248.npz",
+    "success": true
+  },
+  {
+    "episode": 249,
+    "command": "go to the red pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00249.npz",
+    "success": true
+  },
+  {
+    "episode": 250,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00250.npz",
+    "success": true
+  },
+  {
+    "episode": 251,
+    "command": "go to the red pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00251.npz",
+    "success": true
+  },
+  {
+    "episode": 252,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00252.npz",
+    "success": true
+  },
+  {
+    "episode": 253,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00253.npz",
+    "success": true
+  },
+  {
+    "episode": 254,
+    "command": "go to the red pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00254.npz",
+    "success": true
+  },
+  {
+    "episode": 255,
+    "command": "go to the red pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00255.npz",
+    "success": true
+  },
+  {
+    "episode": 256,
+    "command": "go to the green pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00256.npz",
+    "success": true
+  },
+  {
+    "episode": 257,
+    "command": "go to the green pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00257.npz",
+    "success": true
+  },
+  {
+    "episode": 258,
+    "command": "go to the green pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00258.npz",
+    "success": true
+  },
+  {
+    "episode": 259,
+    "command": "go to the red pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00259.npz",
+    "success": true
+  },
+  {
+    "episode": 260,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00260.npz",
+    "success": true
+  },
+  {
+    "episode": 261,
+    "command": "go to the blue pillar",
+    "steps": 101,
+    "file": "collected_data_80steps\\episode_00261.npz",
+    "success": true
+  },
+  {
+    "episode": 262,
+    "command": "go to the blue pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00262.npz",
+    "success": true
+  },
+  {
+    "episode": 263,
+    "command": "go to the green pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00263.npz",
+    "success": true
+  },
+  {
+    "episode": 264,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00264.npz",
+    "success": true
+  },
+  {
+    "episode": 265,
+    "command": "go to the blue pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00265.npz",
+    "success": true
+  },
+  {
+    "episode": 266,
+    "command": "go to the blue pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00266.npz",
+    "success": true
+  },
+  {
+    "episode": 267,
+    "command": "go to the red pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00267.npz",
+    "success": true
+  },
+  {
+    "episode": 268,
+    "command": "go to the red pillar",
+    "steps": 40,
+    "file": "collected_data_80steps\\episode_00268.npz",
+    "success": true
+  },
+  {
+    "episode": 269,
+    "command": "go to the blue pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00269.npz",
+    "success": true
+  },
+  {
+    "episode": 270,
+    "command": "go to the red pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00270.npz",
+    "success": true
+  },
+  {
+    "episode": 271,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00271.npz",
+    "success": true
+  },
+  {
+    "episode": 272,
+    "command": "go to the blue pillar",
+    "steps": 29,
+    "file": "collected_data_80steps\\episode_00272.npz",
+    "success": true
+  },
+  {
+    "episode": 273,
+    "command": "go to the green pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00273.npz",
+    "success": true
+  },
+  {
+    "episode": 274,
+    "command": "go to the red pillar",
+    "steps": 92,
+    "file": "collected_data_80steps\\episode_00274.npz",
+    "success": true
+  },
+  {
+    "episode": 275,
+    "command": "go to the green pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00275.npz",
+    "success": true
+  },
+  {
+    "episode": 276,
+    "command": "go to the blue pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00276.npz",
+    "success": true
+  },
+  {
+    "episode": 277,
+    "command": "go to the blue pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00277.npz",
+    "success": true
+  },
+  {
+    "episode": 278,
+    "command": "go to the red pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00278.npz",
+    "success": true
+  },
+  {
+    "episode": 279,
+    "command": "go to the blue pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00279.npz",
+    "success": true
+  },
+  {
+    "episode": 280,
+    "command": "go to the blue pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00280.npz",
+    "success": true
+  },
+  {
+    "episode": 281,
+    "command": "go to the blue pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00281.npz",
+    "success": true
+  },
+  {
+    "episode": 282,
+    "command": "go to the blue pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00282.npz",
+    "success": true
+  },
+  {
+    "episode": 283,
+    "command": "go to the red pillar",
+    "steps": 36,
+    "file": "collected_data_80steps\\episode_00283.npz",
+    "success": true
+  },
+  {
+    "episode": 284,
+    "command": "go to the green pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00284.npz",
+    "success": true
+  },
+  {
+    "episode": 285,
+    "command": "go to the red pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00285.npz",
+    "success": true
+  },
+  {
+    "episode": 286,
+    "command": "go to the red pillar",
+    "steps": 22,
+    "file": "collected_data_80steps\\episode_00286.npz",
+    "success": true
+  },
+  {
+    "episode": 287,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00287.npz",
+    "success": true
+  },
+  {
+    "episode": 288,
+    "command": "go to the blue pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00288.npz",
+    "success": true
+  },
+  {
+    "episode": 289,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00289.npz",
+    "success": true
+  },
+  {
+    "episode": 290,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00290.npz",
+    "success": true
+  },
+  {
+    "episode": 291,
+    "command": "go to the red pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00291.npz",
+    "success": true
+  },
+  {
+    "episode": 292,
+    "command": "go to the blue pillar",
+    "steps": 99,
+    "file": "collected_data_80steps\\episode_00292.npz",
+    "success": true
+  },
+  {
+    "episode": 293,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00293.npz",
+    "success": true
+  },
+  {
+    "episode": 294,
+    "command": "go to the blue pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00294.npz",
+    "success": true
+  },
+  {
+    "episode": 295,
+    "command": "go to the blue pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00295.npz",
+    "success": true
+  },
+  {
+    "episode": 296,
+    "command": "go to the red pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00296.npz",
+    "success": true
+  },
+  {
+    "episode": 297,
+    "command": "go to the red pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00297.npz",
+    "success": true
+  },
+  {
+    "episode": 298,
+    "command": "go to the green pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00298.npz",
+    "success": true
+  },
+  {
+    "episode": 299,
+    "command": "go to the blue pillar",
+    "steps": 100,
+    "file": "collected_data_80steps\\episode_00299.npz",
+    "success": true
+  },
+  {
+    "episode": 300,
+    "command": "go to the green pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00300.npz",
+    "success": true
+  },
+  {
+    "episode": 301,
+    "command": "go to the green pillar",
+    "steps": 40,
+    "file": "collected_data_80steps\\episode_00301.npz",
+    "success": true
+  },
+  {
+    "episode": 302,
+    "command": "go to the red pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00302.npz",
+    "success": true
+  },
+  {
+    "episode": 303,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00303.npz",
+    "success": true
+  },
+  {
+    "episode": 304,
+    "command": "go to the blue pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00304.npz",
+    "success": true
+  },
+  {
+    "episode": 305,
+    "command": "go to the green pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00305.npz",
+    "success": true
+  },
+  {
+    "episode": 306,
+    "command": "go to the blue pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00306.npz",
+    "success": true
+  },
+  {
+    "episode": 307,
+    "command": "go to the green pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00307.npz",
+    "success": true
+  },
+  {
+    "episode": 308,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00308.npz",
+    "success": true
+  },
+  {
+    "episode": 309,
+    "command": "go to the green pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00309.npz",
+    "success": true
+  },
+  {
+    "episode": 310,
+    "command": "go to the blue pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00310.npz",
+    "success": true
+  },
+  {
+    "episode": 311,
+    "command": "go to the red pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00311.npz",
+    "success": true
+  },
+  {
+    "episode": 312,
+    "command": "go to the green pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00312.npz",
+    "success": true
+  },
+  {
+    "episode": 313,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00313.npz",
+    "success": true
+  },
+  {
+    "episode": 314,
+    "command": "go to the blue pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00314.npz",
+    "success": true
+  },
+  {
+    "episode": 315,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00315.npz",
+    "success": true
+  },
+  {
+    "episode": 316,
+    "command": "go to the green pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00316.npz",
+    "success": true
+  },
+  {
+    "episode": 317,
+    "command": "go to the green pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00317.npz",
+    "success": true
+  },
+  {
+    "episode": 318,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00318.npz",
+    "success": true
+  },
+  {
+    "episode": 319,
+    "command": "go to the green pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00319.npz",
+    "success": true
+  },
+  {
+    "episode": 320,
+    "command": "go to the green pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00320.npz",
+    "success": true
+  },
+  {
+    "episode": 321,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00321.npz",
+    "success": true
+  },
+  {
+    "episode": 322,
+    "command": "go to the blue pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00322.npz",
+    "success": true
+  },
+  {
+    "episode": 323,
+    "command": "go to the blue pillar",
+    "steps": 35,
+    "file": "collected_data_80steps\\episode_00323.npz",
+    "success": true
+  },
+  {
+    "episode": 324,
+    "command": "go to the green pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00324.npz",
+    "success": true
+  },
+  {
+    "episode": 325,
+    "command": "go to the green pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00325.npz",
+    "success": true
+  },
+  {
+    "episode": 326,
+    "command": "go to the red pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00326.npz",
+    "success": true
+  },
+  {
+    "episode": 327,
+    "command": "go to the red pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00327.npz",
+    "success": true
+  },
+  {
+    "episode": 328,
+    "command": "go to the green pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00328.npz",
+    "success": true
+  },
+  {
+    "episode": 329,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00329.npz",
+    "success": true
+  },
+  {
+    "episode": 330,
+    "command": "go to the red pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00330.npz",
+    "success": true
+  },
+  {
+    "episode": 331,
+    "command": "go to the red pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00331.npz",
+    "success": true
+  },
+  {
+    "episode": 332,
+    "command": "go to the green pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00332.npz",
+    "success": true
+  },
+  {
+    "episode": 333,
+    "command": "go to the red pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00333.npz",
+    "success": true
+  },
+  {
+    "episode": 334,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00334.npz",
+    "success": true
+  },
+  {
+    "episode": 335,
+    "command": "go to the blue pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00335.npz",
+    "success": true
+  },
+  {
+    "episode": 336,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00336.npz",
+    "success": true
+  },
+  {
+    "episode": 337,
+    "command": "go to the blue pillar",
+    "steps": 97,
+    "file": "collected_data_80steps\\episode_00337.npz",
+    "success": true
+  },
+  {
+    "episode": 338,
+    "command": "go to the blue pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00338.npz",
+    "success": true
+  },
+  {
+    "episode": 339,
+    "command": "go to the blue pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00339.npz",
+    "success": true
+  },
+  {
+    "episode": 340,
+    "command": "go to the green pillar",
+    "steps": 54,
+    "file": "collected_data_80steps\\episode_00340.npz",
+    "success": true
+  },
+  {
+    "episode": 341,
+    "command": "go to the red pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00341.npz",
+    "success": true
+  },
+  {
+    "episode": 342,
+    "command": "go to the green pillar",
+    "steps": 32,
+    "file": "collected_data_80steps\\episode_00342.npz",
+    "success": true
+  },
+  {
+    "episode": 343,
+    "command": "go to the red pillar",
+    "steps": 134,
+    "file": "collected_data_80steps\\episode_00343.npz",
+    "success": true
+  },
+  {
+    "episode": 344,
+    "command": "go to the red pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00344.npz",
+    "success": true
+  },
+  {
+    "episode": 345,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00345.npz",
+    "success": true
+  },
+  {
+    "episode": 346,
+    "command": "go to the green pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00346.npz",
+    "success": true
+  },
+  {
+    "episode": 347,
+    "command": "go to the blue pillar",
+    "steps": 88,
+    "file": "collected_data_80steps\\episode_00347.npz",
+    "success": true
+  },
+  {
+    "episode": 348,
+    "command": "go to the green pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00348.npz",
+    "success": true
+  },
+  {
+    "episode": 349,
+    "command": "go to the blue pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00349.npz",
+    "success": true
+  },
+  {
+    "episode": 350,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00350.npz",
+    "success": true
+  },
+  {
+    "episode": 351,
+    "command": "go to the green pillar",
+    "steps": 44,
+    "file": "collected_data_80steps\\episode_00351.npz",
+    "success": true
+  },
+  {
+    "episode": 352,
+    "command": "go to the blue pillar",
+    "steps": 107,
+    "file": "collected_data_80steps\\episode_00352.npz",
+    "success": true
+  },
+  {
+    "episode": 353,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00353.npz",
+    "success": true
+  },
+  {
+    "episode": 354,
+    "command": "go to the red pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00354.npz",
+    "success": true
+  },
+  {
+    "episode": 355,
+    "command": "go to the blue pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00355.npz",
+    "success": true
+  },
+  {
+    "episode": 356,
+    "command": "go to the red pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00356.npz",
+    "success": true
+  },
+  {
+    "episode": 357,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00357.npz",
+    "success": true
+  },
+  {
+    "episode": 358,
+    "command": "go to the red pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00358.npz",
+    "success": true
+  },
+  {
+    "episode": 359,
+    "command": "go to the green pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00359.npz",
+    "success": true
+  },
+  {
+    "episode": 360,
+    "command": "go to the blue pillar",
+    "steps": 127,
+    "file": "collected_data_80steps\\episode_00360.npz",
+    "success": true
+  },
+  {
+    "episode": 361,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00361.npz",
+    "success": true
+  },
+  {
+    "episode": 362,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00362.npz",
+    "success": true
+  },
+  {
+    "episode": 363,
+    "command": "go to the blue pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00363.npz",
+    "success": true
+  },
+  {
+    "episode": 364,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00364.npz",
+    "success": true
+  },
+  {
+    "episode": 365,
+    "command": "go to the green pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00365.npz",
+    "success": true
+  },
+  {
+    "episode": 366,
+    "command": "go to the blue pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00366.npz",
+    "success": true
+  },
+  {
+    "episode": 367,
+    "command": "go to the red pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00367.npz",
+    "success": true
+  },
+  {
+    "episode": 368,
+    "command": "go to the blue pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00368.npz",
+    "success": true
+  },
+  {
+    "episode": 369,
+    "command": "go to the blue pillar",
+    "steps": 106,
+    "file": "collected_data_80steps\\episode_00369.npz",
+    "success": true
+  },
+  {
+    "episode": 370,
+    "command": "go to the green pillar",
+    "steps": 34,
+    "file": "collected_data_80steps\\episode_00370.npz",
+    "success": true
+  },
+  {
+    "episode": 371,
+    "command": "go to the blue pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00371.npz",
+    "success": true
+  },
+  {
+    "episode": 372,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00372.npz",
+    "success": true
+  },
+  {
+    "episode": 373,
+    "command": "go to the blue pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00373.npz",
+    "success": true
+  },
+  {
+    "episode": 374,
+    "command": "go to the green pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00374.npz",
+    "success": true
+  },
+  {
+    "episode": 375,
+    "command": "go to the green pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00375.npz",
+    "success": true
+  },
+  {
+    "episode": 376,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00376.npz",
+    "success": true
+  },
+  {
+    "episode": 377,
+    "command": "go to the green pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00377.npz",
+    "success": true
+  },
+  {
+    "episode": 378,
+    "command": "go to the blue pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00378.npz",
+    "success": true
+  },
+  {
+    "episode": 379,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00379.npz",
+    "success": true
+  },
+  {
+    "episode": 380,
+    "command": "go to the blue pillar",
+    "steps": 62,
+    "file": "collected_data_80steps\\episode_00380.npz",
+    "success": true
+  },
+  {
+    "episode": 381,
+    "command": "go to the blue pillar",
+    "steps": 96,
+    "file": "collected_data_80steps\\episode_00381.npz",
+    "success": true
+  },
+  {
+    "episode": 382,
+    "command": "go to the blue pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00382.npz",
+    "success": true
+  },
+  {
+    "episode": 383,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00383.npz",
+    "success": true
+  },
+  {
+    "episode": 384,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00384.npz",
+    "success": true
+  },
+  {
+    "episode": 385,
+    "command": "go to the blue pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00385.npz",
+    "success": true
+  },
+  {
+    "episode": 386,
+    "command": "go to the blue pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00386.npz",
+    "success": true
+  },
+  {
+    "episode": 387,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00387.npz",
+    "success": true
+  },
+  {
+    "episode": 388,
+    "command": "go to the red pillar",
+    "steps": 117,
+    "file": "collected_data_80steps\\episode_00388.npz",
+    "success": true
+  },
+  {
+    "episode": 389,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00389.npz",
+    "success": true
+  },
+  {
+    "episode": 390,
+    "command": "go to the blue pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00390.npz",
+    "success": true
+  },
+  {
+    "episode": 391,
+    "command": "go to the green pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00391.npz",
+    "success": true
+  },
+  {
+    "episode": 392,
+    "command": "go to the blue pillar",
+    "steps": 29,
+    "file": "collected_data_80steps\\episode_00392.npz",
+    "success": true
+  },
+  {
+    "episode": 393,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00393.npz",
+    "success": true
+  },
+  {
+    "episode": 394,
+    "command": "go to the blue pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00394.npz",
+    "success": true
+  },
+  {
+    "episode": 395,
+    "command": "go to the green pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00395.npz",
+    "success": true
+  },
+  {
+    "episode": 396,
+    "command": "go to the green pillar",
+    "steps": 32,
+    "file": "collected_data_80steps\\episode_00396.npz",
+    "success": true
+  },
+  {
+    "episode": 397,
+    "command": "go to the blue pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00397.npz",
+    "success": true
+  },
+  {
+    "episode": 398,
+    "command": "go to the red pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00398.npz",
+    "success": true
+  },
+  {
+    "episode": 399,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00399.npz",
+    "success": true
+  },
+  {
+    "episode": 400,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00400.npz",
+    "success": true
+  },
+  {
+    "episode": 401,
+    "command": "go to the red pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00401.npz",
+    "success": true
+  },
+  {
+    "episode": 402,
+    "command": "go to the blue pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00402.npz",
+    "success": true
+  },
+  {
+    "episode": 403,
+    "command": "go to the blue pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00403.npz",
+    "success": true
+  },
+  {
+    "episode": 404,
+    "command": "go to the red pillar",
+    "steps": 96,
+    "file": "collected_data_80steps\\episode_00404.npz",
+    "success": true
+  },
+  {
+    "episode": 405,
+    "command": "go to the red pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00405.npz",
+    "success": true
+  },
+  {
+    "episode": 406,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00406.npz",
+    "success": true
+  },
+  {
+    "episode": 407,
+    "command": "go to the blue pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00407.npz",
+    "success": true
+  },
+  {
+    "episode": 408,
+    "command": "go to the blue pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00408.npz",
+    "success": true
+  },
+  {
+    "episode": 409,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00409.npz",
+    "success": true
+  },
+  {
+    "episode": 410,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00410.npz",
+    "success": true
+  },
+  {
+    "episode": 411,
+    "command": "go to the blue pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00411.npz",
+    "success": true
+  },
+  {
+    "episode": 412,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00412.npz",
+    "success": true
+  },
+  {
+    "episode": 413,
+    "command": "go to the red pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00413.npz",
+    "success": true
+  },
+  {
+    "episode": 414,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00414.npz",
+    "success": true
+  },
+  {
+    "episode": 415,
+    "command": "go to the red pillar",
+    "steps": 32,
+    "file": "collected_data_80steps\\episode_00415.npz",
+    "success": true
+  },
+  {
+    "episode": 416,
+    "command": "go to the green pillar",
+    "steps": 106,
+    "file": "collected_data_80steps\\episode_00416.npz",
+    "success": true
+  },
+  {
+    "episode": 417,
+    "command": "go to the red pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00417.npz",
+    "success": true
+  },
+  {
+    "episode": 418,
+    "command": "go to the blue pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00418.npz",
+    "success": true
+  },
+  {
+    "episode": 419,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00419.npz",
+    "success": true
+  },
+  {
+    "episode": 420,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00420.npz",
+    "success": true
+  },
+  {
+    "episode": 421,
+    "command": "go to the blue pillar",
+    "steps": 33,
+    "file": "collected_data_80steps\\episode_00421.npz",
+    "success": true
+  },
+  {
+    "episode": 422,
+    "command": "go to the blue pillar",
+    "steps": 31,
+    "file": "collected_data_80steps\\episode_00422.npz",
+    "success": true
+  },
+  {
+    "episode": 423,
+    "command": "go to the green pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00423.npz",
+    "success": true
+  },
+  {
+    "episode": 424,
+    "command": "go to the red pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00424.npz",
+    "success": true
+  },
+  {
+    "episode": 425,
+    "command": "go to the green pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00425.npz",
+    "success": true
+  },
+  {
+    "episode": 426,
+    "command": "go to the blue pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00426.npz",
+    "success": true
+  },
+  {
+    "episode": 427,
+    "command": "go to the blue pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00427.npz",
+    "success": true
+  },
+  {
+    "episode": 428,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00428.npz",
+    "success": true
+  },
+  {
+    "episode": 429,
+    "command": "go to the red pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00429.npz",
+    "success": true
+  },
+  {
+    "episode": 430,
+    "command": "go to the red pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00430.npz",
+    "success": true
+  },
+  {
+    "episode": 431,
+    "command": "go to the blue pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00431.npz",
+    "success": true
+  },
+  {
+    "episode": 432,
+    "command": "go to the red pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00432.npz",
+    "success": true
+  },
+  {
+    "episode": 433,
+    "command": "go to the green pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00433.npz",
+    "success": true
+  },
+  {
+    "episode": 434,
+    "command": "go to the green pillar",
+    "steps": 54,
+    "file": "collected_data_80steps\\episode_00434.npz",
+    "success": true
+  },
+  {
+    "episode": 435,
+    "command": "go to the red pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00435.npz",
+    "success": true
+  },
+  {
+    "episode": 436,
+    "command": "go to the blue pillar",
+    "steps": 40,
+    "file": "collected_data_80steps\\episode_00436.npz",
+    "success": true
+  },
+  {
+    "episode": 437,
+    "command": "go to the blue pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00437.npz",
+    "success": true
+  },
+  {
+    "episode": 438,
+    "command": "go to the blue pillar",
+    "steps": 20,
+    "file": "collected_data_80steps\\episode_00438.npz",
+    "success": true
+  },
+  {
+    "episode": 439,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00439.npz",
+    "success": true
+  },
+  {
+    "episode": 440,
+    "command": "go to the green pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00440.npz",
+    "success": true
+  },
+  {
+    "episode": 441,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00441.npz",
+    "success": true
+  },
+  {
+    "episode": 442,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00442.npz",
+    "success": true
+  },
+  {
+    "episode": 443,
+    "command": "go to the red pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00443.npz",
+    "success": true
+  },
+  {
+    "episode": 444,
+    "command": "go to the green pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00444.npz",
+    "success": true
+  },
+  {
+    "episode": 445,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00445.npz",
+    "success": true
+  },
+  {
+    "episode": 446,
+    "command": "go to the blue pillar",
+    "steps": 100,
+    "file": "collected_data_80steps\\episode_00446.npz",
+    "success": true
+  },
+  {
+    "episode": 447,
+    "command": "go to the red pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00447.npz",
+    "success": true
+  },
+  {
+    "episode": 448,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00448.npz",
+    "success": true
+  },
+  {
+    "episode": 449,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00449.npz",
+    "success": true
+  },
+  {
+    "episode": 450,
+    "command": "go to the green pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00450.npz",
+    "success": true
+  },
+  {
+    "episode": 451,
+    "command": "go to the green pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00451.npz",
+    "success": true
+  },
+  {
+    "episode": 452,
+    "command": "go to the green pillar",
+    "steps": 100,
+    "file": "collected_data_80steps\\episode_00452.npz",
+    "success": true
+  },
+  {
+    "episode": 453,
+    "command": "go to the red pillar",
+    "steps": 39,
+    "file": "collected_data_80steps\\episode_00453.npz",
+    "success": true
+  },
+  {
+    "episode": 454,
+    "command": "go to the blue pillar",
+    "steps": 110,
+    "file": "collected_data_80steps\\episode_00454.npz",
+    "success": true
+  },
+  {
+    "episode": 455,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00455.npz",
+    "success": true
+  },
+  {
+    "episode": 456,
+    "command": "go to the blue pillar",
+    "steps": 86,
+    "file": "collected_data_80steps\\episode_00456.npz",
+    "success": true
+  },
+  {
+    "episode": 457,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00457.npz",
+    "success": true
+  },
+  {
+    "episode": 458,
+    "command": "go to the red pillar",
+    "steps": 35,
+    "file": "collected_data_80steps\\episode_00458.npz",
+    "success": true
+  },
+  {
+    "episode": 459,
+    "command": "go to the blue pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00459.npz",
+    "success": true
+  },
+  {
+    "episode": 460,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00460.npz",
+    "success": true
+  },
+  {
+    "episode": 461,
+    "command": "go to the red pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00461.npz",
+    "success": true
+  },
+  {
+    "episode": 462,
+    "command": "go to the red pillar",
+    "steps": 112,
+    "file": "collected_data_80steps\\episode_00462.npz",
+    "success": true
+  },
+  {
+    "episode": 463,
+    "command": "go to the red pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00463.npz",
+    "success": true
+  },
+  {
+    "episode": 464,
+    "command": "go to the blue pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00464.npz",
+    "success": true
+  },
+  {
+    "episode": 465,
+    "command": "go to the green pillar",
+    "steps": 54,
+    "file": "collected_data_80steps\\episode_00465.npz",
+    "success": true
+  },
+  {
+    "episode": 466,
+    "command": "go to the green pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00466.npz",
+    "success": true
+  },
+  {
+    "episode": 467,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00467.npz",
+    "success": true
+  },
+  {
+    "episode": 468,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00468.npz",
+    "success": true
+  },
+  {
+    "episode": 469,
+    "command": "go to the blue pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00469.npz",
+    "success": true
+  },
+  {
+    "episode": 470,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00470.npz",
+    "success": true
+  },
+  {
+    "episode": 471,
+    "command": "go to the red pillar",
+    "steps": 103,
+    "file": "collected_data_80steps\\episode_00471.npz",
+    "success": true
+  },
+  {
+    "episode": 472,
+    "command": "go to the blue pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00472.npz",
+    "success": true
+  },
+  {
+    "episode": 473,
+    "command": "go to the green pillar",
+    "steps": 71,
+    "file": "collected_data_80steps\\episode_00473.npz",
+    "success": true
+  },
+  {
+    "episode": 474,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00474.npz",
+    "success": true
+  },
+  {
+    "episode": 475,
+    "command": "go to the green pillar",
+    "steps": 32,
+    "file": "collected_data_80steps\\episode_00475.npz",
+    "success": true
+  },
+  {
+    "episode": 476,
+    "command": "go to the blue pillar",
+    "steps": 101,
+    "file": "collected_data_80steps\\episode_00476.npz",
+    "success": true
+  },
+  {
+    "episode": 477,
+    "command": "go to the blue pillar",
+    "steps": 88,
+    "file": "collected_data_80steps\\episode_00477.npz",
+    "success": true
+  },
+  {
+    "episode": 478,
+    "command": "go to the blue pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00478.npz",
+    "success": true
+  },
+  {
+    "episode": 479,
+    "command": "go to the blue pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00479.npz",
+    "success": true
+  },
+  {
+    "episode": 480,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00480.npz",
+    "success": true
+  },
+  {
+    "episode": 481,
+    "command": "go to the blue pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00481.npz",
+    "success": true
+  },
+  {
+    "episode": 482,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00482.npz",
+    "success": true
+  },
+  {
+    "episode": 483,
+    "command": "go to the blue pillar",
+    "steps": 54,
+    "file": "collected_data_80steps\\episode_00483.npz",
+    "success": true
+  },
+  {
+    "episode": 484,
+    "command": "go to the blue pillar",
+    "steps": 99,
+    "file": "collected_data_80steps\\episode_00484.npz",
+    "success": true
+  },
+  {
+    "episode": 485,
+    "command": "go to the blue pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00485.npz",
+    "success": true
+  },
+  {
+    "episode": 486,
+    "command": "go to the red pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00486.npz",
+    "success": true
+  },
+  {
+    "episode": 487,
+    "command": "go to the green pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00487.npz",
+    "success": true
+  },
+  {
+    "episode": 488,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00488.npz",
+    "success": true
+  },
+  {
+    "episode": 489,
+    "command": "go to the blue pillar",
+    "steps": 118,
+    "file": "collected_data_80steps\\episode_00489.npz",
+    "success": true
+  },
+  {
+    "episode": 490,
+    "command": "go to the green pillar",
+    "steps": 31,
+    "file": "collected_data_80steps\\episode_00490.npz",
+    "success": true
+  },
+  {
+    "episode": 491,
+    "command": "go to the blue pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00491.npz",
+    "success": true
+  },
+  {
+    "episode": 492,
+    "command": "go to the blue pillar",
+    "steps": 75,
+    "file": "collected_data_80steps\\episode_00492.npz",
+    "success": true
+  },
+  {
+    "episode": 493,
+    "command": "go to the blue pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00493.npz",
+    "success": true
+  },
+  {
+    "episode": 494,
+    "command": "go to the green pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00494.npz",
+    "success": true
+  },
+  {
+    "episode": 495,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00495.npz",
+    "success": true
+  },
+  {
+    "episode": 496,
+    "command": "go to the blue pillar",
+    "steps": 51,
+    "file": "collected_data_80steps\\episode_00496.npz",
+    "success": true
+  },
+  {
+    "episode": 497,
+    "command": "go to the red pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00497.npz",
+    "success": true
+  },
+  {
+    "episode": 498,
+    "command": "go to the blue pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00498.npz",
+    "success": true
+  },
+  {
+    "episode": 499,
+    "command": "go to the green pillar",
+    "steps": 94,
+    "file": "collected_data_80steps\\episode_00499.npz",
+    "success": true
+  },
+  {
+    "episode": 500,
+    "command": "go to the green pillar",
+    "steps": 30,
+    "file": "collected_data_80steps\\episode_00500.npz",
+    "success": true
+  },
+  {
+    "episode": 501,
+    "command": "go to the green pillar",
+    "steps": 43,
+    "file": "collected_data_80steps\\episode_00501.npz",
+    "success": true
+  },
+  {
+    "episode": 502,
+    "command": "go to the blue pillar",
+    "steps": 21,
+    "file": "collected_data_80steps\\episode_00502.npz",
+    "success": true
+  },
+  {
+    "episode": 503,
+    "command": "go to the blue pillar",
+    "steps": 97,
+    "file": "collected_data_80steps\\episode_00503.npz",
+    "success": true
+  },
+  {
+    "episode": 504,
+    "command": "go to the green pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00504.npz",
+    "success": true
+  },
+  {
+    "episode": 505,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00505.npz",
+    "success": true
+  },
+  {
+    "episode": 506,
+    "command": "go to the green pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00506.npz",
+    "success": true
+  },
+  {
+    "episode": 507,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00507.npz",
+    "success": true
+  },
+  {
+    "episode": 508,
+    "command": "go to the green pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00508.npz",
+    "success": true
+  },
+  {
+    "episode": 509,
+    "command": "go to the blue pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00509.npz",
+    "success": true
+  },
+  {
+    "episode": 510,
+    "command": "go to the blue pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00510.npz",
+    "success": true
+  },
+  {
+    "episode": 511,
+    "command": "go to the green pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00511.npz",
+    "success": true
+  },
+  {
+    "episode": 512,
+    "command": "go to the green pillar",
+    "steps": 88,
+    "file": "collected_data_80steps\\episode_00512.npz",
+    "success": true
+  },
+  {
+    "episode": 513,
+    "command": "go to the blue pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00513.npz",
+    "success": true
+  },
+  {
+    "episode": 514,
+    "command": "go to the blue pillar",
+    "steps": 23,
+    "file": "collected_data_80steps\\episode_00514.npz",
+    "success": true
+  },
+  {
+    "episode": 515,
+    "command": "go to the blue pillar",
+    "steps": 66,
+    "file": "collected_data_80steps\\episode_00515.npz",
+    "success": true
+  },
+  {
+    "episode": 516,
+    "command": "go to the green pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00516.npz",
+    "success": true
+  },
+  {
+    "episode": 517,
+    "command": "go to the blue pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00517.npz",
+    "success": true
+  },
+  {
+    "episode": 518,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00518.npz",
+    "success": true
+  },
+  {
+    "episode": 519,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00519.npz",
+    "success": true
+  },
+  {
+    "episode": 520,
+    "command": "go to the green pillar",
+    "steps": 99,
+    "file": "collected_data_80steps\\episode_00520.npz",
+    "success": true
+  },
+  {
+    "episode": 521,
+    "command": "go to the green pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00521.npz",
+    "success": true
+  },
+  {
+    "episode": 522,
+    "command": "go to the red pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00522.npz",
+    "success": true
+  },
+  {
+    "episode": 523,
+    "command": "go to the blue pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00523.npz",
+    "success": true
+  },
+  {
+    "episode": 524,
+    "command": "go to the blue pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00524.npz",
+    "success": true
+  },
+  {
+    "episode": 525,
+    "command": "go to the blue pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00525.npz",
+    "success": true
+  },
+  {
+    "episode": 526,
+    "command": "go to the red pillar",
+    "steps": 71,
+    "file": "collected_data_80steps\\episode_00526.npz",
+    "success": true
+  },
+  {
+    "episode": 527,
+    "command": "go to the green pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00527.npz",
+    "success": true
+  },
+  {
+    "episode": 528,
+    "command": "go to the green pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00528.npz",
+    "success": true
+  },
+  {
+    "episode": 529,
+    "command": "go to the blue pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00529.npz",
+    "success": true
+  },
+  {
+    "episode": 530,
+    "command": "go to the blue pillar",
+    "steps": 67,
+    "file": "collected_data_80steps\\episode_00530.npz",
+    "success": true
+  },
+  {
+    "episode": 531,
+    "command": "go to the blue pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00531.npz",
+    "success": true
+  },
+  {
+    "episode": 532,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00532.npz",
+    "success": true
+  },
+  {
+    "episode": 533,
+    "command": "go to the blue pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00533.npz",
+    "success": true
+  },
+  {
+    "episode": 534,
+    "command": "go to the green pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00534.npz",
+    "success": true
+  },
+  {
+    "episode": 535,
+    "command": "go to the green pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00535.npz",
+    "success": true
+  },
+  {
+    "episode": 536,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00536.npz",
+    "success": true
+  },
+  {
+    "episode": 537,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00537.npz",
+    "success": true
+  },
+  {
+    "episode": 538,
+    "command": "go to the green pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00538.npz",
+    "success": true
+  },
+  {
+    "episode": 539,
+    "command": "go to the red pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00539.npz",
+    "success": true
+  },
+  {
+    "episode": 540,
+    "command": "go to the blue pillar",
+    "steps": 71,
+    "file": "collected_data_80steps\\episode_00540.npz",
+    "success": true
+  },
+  {
+    "episode": 541,
+    "command": "go to the red pillar",
+    "steps": 45,
+    "file": "collected_data_80steps\\episode_00541.npz",
+    "success": true
+  },
+  {
+    "episode": 542,
+    "command": "go to the green pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00542.npz",
+    "success": true
+  },
+  {
+    "episode": 543,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00543.npz",
+    "success": true
+  },
+  {
+    "episode": 544,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00544.npz",
+    "success": true
+  },
+  {
+    "episode": 545,
+    "command": "go to the red pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00545.npz",
+    "success": true
+  },
+  {
+    "episode": 546,
+    "command": "go to the blue pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00546.npz",
+    "success": true
+  },
+  {
+    "episode": 547,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00547.npz",
+    "success": true
+  },
+  {
+    "episode": 548,
+    "command": "go to the blue pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00548.npz",
+    "success": true
+  },
+  {
+    "episode": 549,
+    "command": "go to the green pillar",
+    "steps": 82,
+    "file": "collected_data_80steps\\episode_00549.npz",
+    "success": true
+  },
+  {
+    "episode": 550,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00550.npz",
+    "success": true
+  },
+  {
+    "episode": 551,
+    "command": "go to the blue pillar",
+    "steps": 97,
+    "file": "collected_data_80steps\\episode_00551.npz",
+    "success": true
+  },
+  {
+    "episode": 552,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00552.npz",
+    "success": true
+  },
+  {
+    "episode": 553,
+    "command": "go to the blue pillar",
+    "steps": 87,
+    "file": "collected_data_80steps\\episode_00553.npz",
+    "success": true
+  },
+  {
+    "episode": 554,
+    "command": "go to the green pillar",
+    "steps": 80,
+    "file": "collected_data_80steps\\episode_00554.npz",
+    "success": true
+  },
+  {
+    "episode": 555,
+    "command": "go to the green pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00555.npz",
+    "success": true
+  },
+  {
+    "episode": 556,
+    "command": "go to the red pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00556.npz",
+    "success": true
+  },
+  {
+    "episode": 557,
+    "command": "go to the blue pillar",
+    "steps": 84,
+    "file": "collected_data_80steps\\episode_00557.npz",
+    "success": true
+  },
+  {
+    "episode": 558,
+    "command": "go to the green pillar",
+    "steps": 74,
+    "file": "collected_data_80steps\\episode_00558.npz",
+    "success": true
+  },
+  {
+    "episode": 559,
+    "command": "go to the green pillar",
+    "steps": 44,
+    "file": "collected_data_80steps\\episode_00559.npz",
+    "success": true
+  },
+  {
+    "episode": 560,
+    "command": "go to the green pillar",
+    "steps": 44,
+    "file": "collected_data_80steps\\episode_00560.npz",
+    "success": true
+  },
+  {
+    "episode": 561,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00561.npz",
+    "success": true
+  },
+  {
+    "episode": 562,
+    "command": "go to the green pillar",
+    "steps": 101,
+    "file": "collected_data_80steps\\episode_00562.npz",
+    "success": true
+  },
+  {
+    "episode": 563,
+    "command": "go to the red pillar",
+    "steps": 79,
+    "file": "collected_data_80steps\\episode_00563.npz",
+    "success": true
+  },
+  {
+    "episode": 564,
+    "command": "go to the red pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00564.npz",
+    "success": true
+  },
+  {
+    "episode": 565,
+    "command": "go to the green pillar",
+    "steps": 113,
+    "file": "collected_data_80steps\\episode_00565.npz",
+    "success": true
+  },
+  {
+    "episode": 566,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00566.npz",
+    "success": true
+  },
+  {
+    "episode": 567,
+    "command": "go to the red pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00567.npz",
+    "success": true
+  },
+  {
+    "episode": 568,
+    "command": "go to the blue pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00568.npz",
+    "success": true
+  },
+  {
+    "episode": 569,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00569.npz",
+    "success": true
+  },
+  {
+    "episode": 570,
+    "command": "go to the red pillar",
+    "steps": 34,
+    "file": "collected_data_80steps\\episode_00570.npz",
+    "success": true
+  },
+  {
+    "episode": 571,
+    "command": "go to the green pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00571.npz",
+    "success": true
+  },
+  {
+    "episode": 572,
+    "command": "go to the blue pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00572.npz",
+    "success": true
+  },
+  {
+    "episode": 573,
+    "command": "go to the red pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00573.npz",
+    "success": true
+  },
+  {
+    "episode": 574,
+    "command": "go to the blue pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00574.npz",
+    "success": true
+  },
+  {
+    "episode": 575,
+    "command": "go to the red pillar",
+    "steps": 57,
+    "file": "collected_data_80steps\\episode_00575.npz",
+    "success": true
+  },
+  {
+    "episode": 576,
+    "command": "go to the green pillar",
+    "steps": 55,
+    "file": "collected_data_80steps\\episode_00576.npz",
+    "success": true
+  },
+  {
+    "episode": 577,
+    "command": "go to the red pillar",
+    "steps": 41,
+    "file": "collected_data_80steps\\episode_00577.npz",
+    "success": true
+  },
+  {
+    "episode": 578,
+    "command": "go to the blue pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00578.npz",
+    "success": true
+  },
+  {
+    "episode": 579,
+    "command": "go to the green pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00579.npz",
+    "success": true
+  },
+  {
+    "episode": 580,
+    "command": "go to the red pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00580.npz",
+    "success": true
+  },
+  {
+    "episode": 581,
+    "command": "go to the green pillar",
+    "steps": 53,
+    "file": "collected_data_80steps\\episode_00581.npz",
+    "success": true
+  },
+  {
+    "episode": 582,
+    "command": "go to the blue pillar",
+    "steps": 117,
+    "file": "collected_data_80steps\\episode_00582.npz",
+    "success": true
+  },
+  {
+    "episode": 583,
+    "command": "go to the green pillar",
+    "steps": 60,
+    "file": "collected_data_80steps\\episode_00583.npz",
+    "success": true
+  },
+  {
+    "episode": 584,
+    "command": "go to the green pillar",
+    "steps": 43,
+    "file": "collected_data_80steps\\episode_00584.npz",
+    "success": true
+  },
+  {
+    "episode": 585,
+    "command": "go to the green pillar",
+    "steps": 58,
+    "file": "collected_data_80steps\\episode_00585.npz",
+    "success": true
+  },
+  {
+    "episode": 586,
+    "command": "go to the red pillar",
+    "steps": 71,
+    "file": "collected_data_80steps\\episode_00586.npz",
+    "success": true
+  },
+  {
+    "episode": 587,
+    "command": "go to the red pillar",
+    "steps": 40,
+    "file": "collected_data_80steps\\episode_00587.npz",
+    "success": true
+  },
+  {
+    "episode": 588,
+    "command": "go to the green pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00588.npz",
+    "success": true
+  },
+  {
+    "episode": 589,
+    "command": "go to the green pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00589.npz",
+    "success": true
+  },
+  {
+    "episode": 590,
+    "command": "go to the green pillar",
+    "steps": 65,
+    "file": "collected_data_80steps\\episode_00590.npz",
+    "success": true
+  },
+  {
+    "episode": 591,
+    "command": "go to the green pillar",
+    "steps": 70,
+    "file": "collected_data_80steps\\episode_00591.npz",
+    "success": true
+  },
+  {
+    "episode": 592,
+    "command": "go to the green pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00592.npz",
+    "success": true
+  },
+  {
+    "episode": 593,
+    "command": "go to the green pillar",
+    "steps": 83,
+    "file": "collected_data_80steps\\episode_00593.npz",
+    "success": true
+  },
+  {
+    "episode": 594,
+    "command": "go to the red pillar",
+    "steps": 36,
+    "file": "collected_data_80steps\\episode_00594.npz",
+    "success": true
+  },
+  {
+    "episode": 595,
+    "command": "go to the blue pillar",
+    "steps": 69,
+    "file": "collected_data_80steps\\episode_00595.npz",
+    "success": true
+  },
+  {
+    "episode": 596,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00596.npz",
+    "success": true
+  },
+  {
+    "episode": 597,
+    "command": "go to the blue pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00597.npz",
+    "success": true
+  },
+  {
+    "episode": 598,
+    "command": "go to the red pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00598.npz",
+    "success": true
+  },
+  {
+    "episode": 599,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00599.npz",
+    "success": true
+  },
+  {
+    "episode": 600,
+    "command": "go to the red pillar",
+    "steps": 37,
+    "file": "collected_data_80steps\\episode_00600.npz",
+    "success": true
+  },
+  {
+    "episode": 601,
+    "command": "go to the blue pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00601.npz",
+    "success": true
+  },
+  {
+    "episode": 602,
+    "command": "go to the red pillar",
+    "steps": 78,
+    "file": "collected_data_80steps\\episode_00602.npz",
+    "success": true
+  },
+  {
+    "episode": 603,
+    "command": "go to the green pillar",
+    "steps": 64,
+    "file": "collected_data_80steps\\episode_00603.npz",
+    "success": true
+  },
+  {
+    "episode": 604,
+    "command": "go to the blue pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00604.npz",
+    "success": true
+  },
+  {
+    "episode": 605,
+    "command": "go to the red pillar",
+    "steps": 44,
+    "file": "collected_data_80steps\\episode_00605.npz",
+    "success": true
+  },
+  {
+    "episode": 606,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00606.npz",
+    "success": true
+  },
+  {
+    "episode": 607,
+    "command": "go to the blue pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00607.npz",
+    "success": true
+  },
+  {
+    "episode": 608,
+    "command": "go to the red pillar",
+    "steps": 68,
+    "file": "collected_data_80steps\\episode_00608.npz",
+    "success": true
+  },
+  {
+    "episode": 609,
+    "command": "go to the green pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00609.npz",
+    "success": true
+  },
+  {
+    "episode": 610,
+    "command": "go to the blue pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00610.npz",
+    "success": true
+  },
+  {
+    "episode": 611,
+    "command": "go to the blue pillar",
+    "steps": 81,
+    "file": "collected_data_80steps\\episode_00611.npz",
+    "success": true
+  },
+  {
+    "episode": 612,
+    "command": "go to the red pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00612.npz",
+    "success": true
+  },
+  {
+    "episode": 613,
+    "command": "go to the blue pillar",
+    "steps": 42,
+    "file": "collected_data_80steps\\episode_00613.npz",
+    "success": true
+  },
+  {
+    "episode": 614,
+    "command": "go to the green pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00614.npz",
+    "success": true
+  },
+  {
+    "episode": 615,
+    "command": "go to the blue pillar",
+    "steps": 63,
+    "file": "collected_data_80steps\\episode_00615.npz",
+    "success": true
+  },
+  {
+    "episode": 616,
+    "command": "go to the red pillar",
+    "steps": 17,
+    "file": "collected_data_80steps\\episode_00616.npz",
+    "success": true
+  },
+  {
+    "episode": 617,
+    "command": "go to the red pillar",
+    "steps": 49,
+    "file": "collected_data_80steps\\episode_00617.npz",
+    "success": true
+  },
+  {
+    "episode": 618,
+    "command": "go to the green pillar",
+    "steps": 77,
+    "file": "collected_data_80steps\\episode_00618.npz",
+    "success": true
+  },
+  {
+    "episode": 619,
+    "command": "go to the green pillar",
+    "steps": 34,
+    "file": "collected_data_80steps\\episode_00619.npz",
+    "success": true
+  },
+  {
+    "episode": 620,
+    "command": "go to the blue pillar",
+    "steps": 71,
+    "file": "collected_data_80steps\\episode_00620.npz",
+    "success": true
+  },
+  {
+    "episode": 621,
+    "command": "go to the green pillar",
+    "steps": 111,
+    "file": "collected_data_80steps\\episode_00621.npz",
+    "success": true
+  },
+  {
+    "episode": 622,
+    "command": "go to the red pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00622.npz",
+    "success": true
+  },
+  {
+    "episode": 623,
+    "command": "go to the red pillar",
+    "steps": 50,
+    "file": "collected_data_80steps\\episode_00623.npz",
+    "success": true
+  },
+  {
+    "episode": 624,
+    "command": "go to the blue pillar",
+    "steps": 47,
+    "file": "collected_data_80steps\\episode_00624.npz",
+    "success": true
+  },
+  {
+    "episode": 625,
+    "command": "go to the red pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00625.npz",
+    "success": true
+  },
+  {
+    "episode": 626,
+    "command": "go to the blue pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00626.npz",
+    "success": true
+  },
+  {
+    "episode": 627,
+    "command": "go to the blue pillar",
+    "steps": 93,
+    "file": "collected_data_80steps\\episode_00627.npz",
+    "success": true
+  },
+  {
+    "episode": 628,
+    "command": "go to the green pillar",
+    "steps": 95,
+    "file": "collected_data_80steps\\episode_00628.npz",
+    "success": true
+  },
+  {
+    "episode": 629,
+    "command": "go to the green pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00629.npz",
+    "success": true
+  },
+  {
+    "episode": 630,
+    "command": "go to the red pillar",
+    "steps": 59,
+    "file": "collected_data_80steps\\episode_00630.npz",
+    "success": true
+  },
+  {
+    "episode": 631,
+    "command": "go to the red pillar",
+    "steps": 48,
+    "file": "collected_data_80steps\\episode_00631.npz",
+    "success": true
+  },
+  {
+    "episode": 632,
+    "command": "go to the green pillar",
+    "steps": 92,
+    "file": "collected_data_80steps\\episode_00632.npz",
+    "success": true
+  },
+  {
+    "episode": 633,
+    "command": "go to the green pillar",
+    "steps": 105,
+    "file": "collected_data_80steps\\episode_00633.npz",
+    "success": true
+  },
+  {
+    "episode": 634,
+    "command": "go to the green pillar",
+    "steps": 56,
+    "file": "collected_data_80steps\\episode_00634.npz",
+    "success": true
+  },
+  {
+    "episode": 635,
+    "command": "go to the green pillar",
+    "steps": 89,
+    "file": "collected_data_80steps\\episode_00635.npz",
+    "success": true
+  },
+  {
+    "episode": 636,
+    "command": "go to the red pillar",
+    "steps": 151,
+    "file": "collected_data_80steps\\episode_00636.npz",
+    "success": true
+  },
+  {
+    "episode": 637,
+    "command": "go to the green pillar",
+    "steps": 61,
+    "file": "collected_data_80steps\\episode_00637.npz",
+    "success": true
+  },
+  {
+    "episode": 638,
+    "command": "go to the green pillar",
+    "steps": 90,
+    "file": "collected_data_80steps\\episode_00638.npz",
+    "success": true
+  },
+  {
+    "episode": 639,
+    "command": "go to the blue pillar",
+    "steps": 73,
+    "file": "collected_data_80steps\\episode_00639.npz",
+    "success": true
+  },
+  {
+    "episode": 640,
+    "command": "go to the green pillar",
+    "steps": 72,
+    "file": "collected_data_80steps\\episode_00640.npz",
+    "success": true
+  },
+  {
+    "episode": 641,
+    "command": "go to the blue pillar",
+    "steps": 35,
+    "file": "collected_data_80steps\\episode_00641.npz",
+    "success": true
+  },
+  {
+    "episode": 642,
+    "command": "go to the green pillar",
+    "steps": 76,
+    "file": "collected_data_80steps\\episode_00642.npz",
+    "success": true
+  },
+  {
+    "episode": 643,
+    "command": "go to the red pillar",
+    "steps": 91,
+    "file": "collected_data_80steps\\episode_00643.npz",
+    "success": true
+  },
+  {
+    "episode": 644,
+    "command": "go to the green pillar",
+    "steps": 46,
+    "file": "collected_data_80steps\\episode_00644.npz",
+    "success": true
+  },
+  {
+    "episode": 645,
+    "command": "go to the green pillar",
+    "steps": 52,
+    "file": "collected_data_80steps\\episode_00645.npz",
+    "success": true
+  },
+  {
+    "episode": 646,
+    "command": "go to the blue pillar",
+    "steps": 85,
+    "file": "collected_data_80steps\\episode_00646.npz",
+    "success": true
   }
 ]
