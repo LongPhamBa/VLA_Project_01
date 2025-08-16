@@ -80,7 +80,8 @@ class DataCollectorLogic:
         meta_path = os.path.join(OUTPUT_DIR, "metadata.json")
 
         episode_idx = start_idx
-        THRESHOLD = 15  # gộp step giống nhau
+        THRESHOLD = 15          # gộp step giống nhau
+        MAX_LOGIC_STEPS = 150   # giới hạn số logic step
 
         if visualize:
             cv2.namedWindow("MuJoCo Simulation", cv2.WINDOW_NORMAL)
@@ -99,6 +100,7 @@ class DataCollectorLogic:
                 same_count = 0
                 start_time = time.time()
                 success_flag = False
+                step_logic = 0   # đếm số logic step
 
                 while True:
                     car_state = get_car_state(self.model, self.data, self.car_body_id)
@@ -123,6 +125,9 @@ class DataCollectorLogic:
                         same_count = 1
                         prev_label = label
 
+                    # tăng logic step
+                    step_logic += 1
+
                     episode_data.append({
                         "image": rgb_img.astype(np.uint8),
                         "command": command,
@@ -132,8 +137,12 @@ class DataCollectorLogic:
                         "time": time.time() - start_time
                     })
 
+                    # điều kiện dừng
                     if np.linalg.norm(car_state[:2] - target_pos) < 0.21:
                         success_flag = True
+                        break
+                    if step_logic >= MAX_LOGIC_STEPS:
+                        print(f"Episode {episode_idx:05d} reached max logic steps ({MAX_LOGIC_STEPS}), stopping.")
                         break
 
                     if visualize:
@@ -145,12 +154,10 @@ class DataCollectorLogic:
                 # Lưu dữ liệu episode
                 fname = os.path.join(OUTPUT_DIR, f"episode_{episode_idx:05d}.npz")
                 save_episode(fname, episode_data, target_pos, success_flag, seed)
-                print(f"Đã lưu tập dữ liệu: {fname}")
+                print(f"Saved episode: {fname}")
 
                 episode_idx += 1
-
         finally:
-            # Rebuild metadata từ toàn bộ file npz
             rebuild_metadata(OUTPUT_DIR, meta_path)
             if visualize:
                 cv2.destroyAllWindows()
