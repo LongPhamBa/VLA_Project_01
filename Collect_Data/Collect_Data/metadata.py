@@ -21,5 +21,5 @@ def rebuild_metadata(output_dir, meta_path):
 
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(all_meta, f, indent=2, ensure_ascii=False)
-    print(f"📄 Updated {meta_path} with {len(all_meta)} episodes")
+    print(f" Updated {meta_path} with {len(all_meta)} episodes")
 
