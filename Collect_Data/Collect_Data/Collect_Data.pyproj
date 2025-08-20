@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c03dc23c-39be-408d-8449-575120245208</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>main.py</StartupFile>
+    <StartupFile>test_episode.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,8 @@
     <Compile Include="controller.py" />
     <Compile Include="episode_saver.py" />
     <Compile Include="labels.py" />
+    <Compile Include="main_GPU0.py" />
+    <Compile Include="main_GPU1.py" />
     <Compile Include="metadata.py" />
     <Compile Include="simulation.py" />
     <Compile Include="main.py" />

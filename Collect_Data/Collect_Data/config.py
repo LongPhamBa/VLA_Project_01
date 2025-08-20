@@ -5,7 +5,7 @@ import numpy as np
 XML_PATH = "car_with_arena_P01.XML"
 OUTPUT_DIR = "collected_data_80steps"
 VISUALIZE = False
-NUM_EPISODES = 1
+NUM_EPISODES = 5000
 IMAGE_SHAPE = (84, 84, 3)
 
 # Ánh xạ lệnh -> tọa độ mục tiêu
